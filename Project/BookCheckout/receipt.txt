@@ -1,0 +1,9 @@
+Receipt: 2023-04-01 20:07:22
+Title                                     Price
+————————————————————————————————————————————————
+I Did It Your Way x 2                   $  23.90
+Learn Calculus in One Day x 1           $  29.95
+Subtotal                                $  53.85
+Tax                                     $   3.77
+                                        ————————
+Grandtotal                              $  57.62
